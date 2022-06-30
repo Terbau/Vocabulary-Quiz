@@ -1,0 +1,35 @@
+{
+  "created_at": "2022-03-03 18:32:28.915992",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "Ausland": "abroad",
+    "die Ferien": "the holiday",
+    "nach Hause": "home",
+    "fliegen": "to fly",
+    "das Semesterende": "the end of the semester",
+    "der Papa": "the dad",
+    "der Schwarzwald": "the black forest",
+    "fischen": "to fish",
+    "fernsehen": "to watch tv",
+    "campen": "to camp",
+    "die Mama": "the mom",
+    "ausschlafen": "to sleep in",
+    "die Zeitung": "the newspaper",
+    "lieb": "nice",
+    "lesen": "to read",
+    "die Kom\u00f6die": "the comedy",
+    "das Popcorn": "the popcorn",
+    "die Nichte": "the niece",
+    "das Kinderbuch": "the childrens book",
+    "das Gep\u00e4ck": "the luggage",
+    "der Abflug": "the departure",
+    "wiederkommen": "to come back",
+    "gute Reise": "have a good trip",
+    "jemand": "someone"
+  }
+}

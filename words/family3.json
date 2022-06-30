@@ -1,0 +1,40 @@
+{
+  "created_at": "2022-02-26 20:37:23.472665",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "das Haus": "the house",
+    "der Beamter": "the civil servant",
+    "zufrieden": "content",
+    "die Schildkr\u00f6te": "the turtle",
+    "reich": "rich",
+    "das Geschwister": "the sibling",
+    "die Freizeit": "the free time",
+    "das Kind": "the child",
+    "die Kinder": "the children",
+    "brav": "well behaved",
+    "das Praktikum": "the internship",
+    "die Enkelin": "the granddaughter",
+    "der Enkel": "the grandson",
+    "das Auto": "the car",
+    "das Motorrad": "the motorcycle",
+    "das Auge": "the eye",
+    "arbeitslos": "unemployed",
+    "reisen": "to travel",
+    "zu Fu\u00df": "by foot",
+    "die Gro\u00dfmutter": "the grandmother",
+    "der Gro\u00dfvater": "the grandfather",
+    "die Gro\u00dfeltern": "the grandparents",
+    "das Haustier": "the pet",
+    "die Haustiere": "the pets",
+    "das Tier": "the animal",
+    "die Pflanze": "the plant",
+    "der Computer": "the computer",
+    "das Dorf": "the village",
+    "endet": "ends"
+  }
+}

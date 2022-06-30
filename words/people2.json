@@ -1,0 +1,29 @@
+{
+  "created_at": "2022-03-31 21:31:12.473099",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die Mannschaft": "the team (mannskap)",
+    "die Operation": "the operation",
+    "gemocht": "liked",
+    "der Dichter": "the poet (dikteren)",
+    "der Bonus": "the bonus",
+    "der Wissenschaftler": "the scientist",
+    "gelebt": "lived",
+    "gegeben": "gave",
+    "j\u00fcngste": "youngest",
+    "\u00e4lteste": "oldest",
+    "buchstabieren": "to spell",
+    "die Schlittschuhe": "the ice skates",
+    "\u00fcberhaupt": "at all",
+    "nervig": "annoying",
+    "das Experiment": "the experiment",
+    "verreisen": "to get away (\u00e5 reise bort)",
+    "das Gedicht": "the poem",
+    "die Gedichte": "the poems"
+  }
+}

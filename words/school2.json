@@ -1,0 +1,42 @@
+{
+  "created_at": "2022-04-03 16:27:07.132498",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "das Blatt": "the piece (blad)",
+    "die Grammatik": "the grammar",
+    "die \u00dcbung": "the exercise",
+    "das Heft": "the notebook (hefte)",
+    "fragen": "to ask",
+    "die Grammatik\u00fcbung": "the grammar exercise",
+    "der Satz": "the sentence",
+    "\u00fcbersetzen": "to translate",
+    "die \u00dcberschrift": "the title (overskrift)",
+    "aussprechen": "to pronounce (\u00e5 uttale)",
+    "die Rechtschreibung": "the spelling (rettskrivning)",
+    "plus": "plus",
+    "minus": "minus",
+    "die Leistungen": "the performance",
+    "die Note": "the grade",
+    "die Noten": "the grades",
+    "sich verbessert": "gotten better",
+    "der Stundenplan": "the schedule",
+    "vergleichen": "to compare",
+    "der Unterschied": "the difference",
+    "mir Bescheid sagen": "let me know ((gi) meg en beskjed)",
+    "wach": "awake",
+    "einschlafen": "to fall asleep",
+    "gerade": "straight",
+    "sag bescheid": "let me know (START)",
+    "st\u00f6ren": "to bother",
+    "das Paar": "the couple",
+    "die Pausen": "the recesses (pauser)",
+    "die Ansage": "the announcement",
+    "die Sporthalle": "the gym (idrettshall)",
+    "die Pause": "the recess (pausen)"
+  }
+}

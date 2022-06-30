@@ -1,0 +1,41 @@
+{
+  "created_at": "2022-04-03 12:51:35.053289",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "das Bein": "the leg",
+    "gebrochen": "broken",
+    "die Hand": "the hand",
+    "bei": "while",
+    "linke": "left",
+    "rechte": "right",
+    "der Fu\u00df": "the foot",
+    "die F\u00fc\u00dfe": "the feet",
+    "das Pflaster": "the bandage (plaster)",
+    "bluten": "to bleed",
+    "die Nase": "the nose",
+    "verletzen": "to hurt",
+    "der Zeh": "the toe",
+    "die Zehe": "the toes",
+    "der Krankenpfleger": "the nurse (sykepleier)",
+    "die Notaufnahme": "the emergency room (akuttmottak)",
+    "die Krankenschwester": "the nurse (woman) (sykepleier)",
+    "die Meile": "the mile",
+    "die Meilen": "the miles",
+    "der R\u00fccken": "the back (rygg)",
+    "erkl\u00e4ren": "to explain",
+    "die Socke": "the sock",
+    "ausziehen": "to take off",
+    "das R\u00f6ntgenbild": "the x-ray (r\u00f8ntgenbilde)",
+    "schaffen": "to be able to",
+    "anziehen": "to put on",
+    "vorsichtig": "careful",
+    "Erstens": "first",
+    "der Gipsverband": "the cast (gipsbandasje)",
+    "abnehmen": "to remove"
+  }
+}

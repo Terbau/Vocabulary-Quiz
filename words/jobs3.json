@@ -1,0 +1,40 @@
+{
+  "created_at": "2022-04-08 09:42:44.231149",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die Arbeitsstelle": "the job",
+    "der Vertrag": "the contract",
+    "der \u00dcbersetzer": "the translator",
+    "bei einer Firma": "at a company",
+    "produziert": "produces",
+    "produzieren": "to produce",
+    "die M\u00f6bel": "the furniture(s) (m\u00f8bler)",
+    "das M\u00f6bel": "the furniture (m\u00f8bel)",
+    "die Ausl\u00e4nderbeh\u00f6rde": "the immigration office",
+    "beantragen": "to apply for",
+    "die Arbeitserlaubnis": "the work permit (arbeitstillatelse)",
+    "der Abschluss": "the degree",
+    "ledig": "single",
+    "die Vollzeit": "the full time",
+    "die Teilzeit": "the part time",
+    "der Arbeitgeber": "the employer (arbeidsgiver)",
+    "die Staatsangeh\u00f6rigkeit": "the nationality (statsborgerskap)",
+    "der Familienstand": "the marital status (sivilstand)",
+    "illegal": "illegal (ulovlig)",
+    "erhalten": "to receive",
+    "ankreuzen": "to check off",
+    "folgend": "following (f\u00f8lgende)",
+    "herunterladen": "to download",
+    "wahnsinnig": "crazy (vanvittig)",
+    "\u00fcberpr\u00fcfen": "to verify",
+    "anstrengend": "stressful",
+    "vorstellen": "to imagine",
+    "Stell dir vor": "Imagine",
+    "bl\u00f6d": "stupid"
+  }
+}

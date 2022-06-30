@@ -1,0 +1,43 @@
+{
+  "created_at": "2022-03-22 20:11:28.431526",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die Nachbarn": "the neighbors",
+    "die Grippe": "the flu",
+    "plaudern": "to chat",
+    "gebrochen": "broken",
+    "runtergefallen": "fell down",
+    "der Unfall": "the accident",
+    "die Tablette": "the pill",
+    "die Tabletten": "the pills",
+    "der Stock": "the cane",
+    "der Sch\u00e4ferhund": "the german shepherd",
+    "erwachsen": "grown-up",
+    "aufgewachsen": "grew up",
+    "zeigen": "to show",
+    "der S\u00e4nger": "the singer",
+    "das Dach": "the roof",
+    "die W\u00e4sche": "the laundry",
+    "der M\u00fcll": "the trash",
+    "das Moped": "the moped",
+    "die Garage": "the garage",
+    "die Ente": "the duck",
+    "die Enten": "the ducks",
+    "frech": "sassy",
+    "ber\u00fchmt": "famous",
+    "\u00c4rgerst du dich": "are you annoyed",
+    "die Zeichentrickfilme": "the cartoons",
+    "neben": "next to",
+    "arm": "poor",
+    "der Roboter": "the robot",
+    "das Ladeger\u00e4t": "the charger",
+    "der Ratschlag": "the piece of advice",
+    "der Rasen": "the lawn",
+    "m\u00e4hen": "to mow"
+  }
+}

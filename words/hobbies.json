@@ -1,0 +1,20 @@
+{
+  "created_at": "2022-02-05 12:31:11.472167",
+  "stats": {
+    "attempts": 4,
+    "word_attempts": 20,
+    "word_successes": 19,
+    "all_correct_count": 3
+  },
+  "words": {
+    "schwimmen": "to swim",
+    "kochen": "to cook",
+    "nie": "never",
+    "manchmal": "sometimes",
+    "malen": "to paint",
+    "immer": "always",
+    "oft": "often",
+    "das Klavier": "the piano",
+    "das Schach": "the chess"
+  }
+}

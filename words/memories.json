@@ -1,0 +1,33 @@
+{
+  "created_at": "2022-04-01 14:00:55.063076",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "das Licht": "the light",
+    "anmachen": "to turn on",
+    "die Cola": "the cola",
+    "sich erinnern": "to remember",
+    "das Fotoalbum": "the photo album",
+    "ich erinnere mich an": "i remember",
+    "zeigen": "to show",
+    "altmodisch": "old fashioned (gammeldags)",
+    "anders": "different (annerledes)",
+    "die Mitte": "the middle",
+    "ersten": "first",
+    "Luxemburg": "Luxembourg",
+    "jemand": "someone (noen)",
+    "Unsinn gemacht": "goofed around",
+    "j\u00fcnger": "younger",
+    "der Stiefbruder": "the stepbrother",
+    "der Jugendlicher": "the teenager",
+    "die Jugendlichen": "the teenagers",
+    "zig": "tons of (sv\u00e6rt mange)",
+    "die Geschwister": "the siblings",
+    "\u00e4lter": "older",
+    "gezeigt": "showed"
+  }
+}

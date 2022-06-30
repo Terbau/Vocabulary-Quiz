@@ -1,0 +1,39 @@
+{
+  "created_at": "2022-04-05 08:16:19.449840",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die Silvesterparty": "the new year's eve party",
+    "Guten Rutsch ins neue Jahr": "Happy new year",
+    "der Vorsatz": "the resolution (forsett)",
+    "die Vors\u00e4tze": "the resolutions (fortsetter)",
+    "gefasst": "made",
+    "das Ziel": "the goal",
+    "die Ziele": "the goals",
+    "ern\u00e4hren": "to eat (ern\u00e6re)",
+    "versuchen": "to try",
+    "werden": "will",
+    "rechtzeitig": "on time",
+    "sparen": "to save",
+    "abgeben": "to turn in",
+    "mir ist es wichtig": "it's important to me",
+    "\u00e4rgerlich": "annoying (ergerlig)",
+    "bem\u00fchen": "to make an effort",
+    "\u00e4ndern": "to change",
+    "\u00f6fter": "more often",
+    "die Kneipe": "the bar",
+    "vegan": "vegan",
+    "l\u00e4cheln": "to smile",
+    "Viel Gl\u00fcck": "Good Luck",
+    "einhalten": "to keep",
+    "das Feuerwerk": "the fireworks",
+    "der Gl\u00fccksbringer": "the lucky charm",
+    "das Marzipan": "the marzipan",
+    "die Gl\u00fccksbringer": "the lucky charms",
+    "einander": "each other"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "created_at": "2022-03-18 13:40:51.054949",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die Welt": "the world",
+    "der G\u00fcrtel": "the belt",
+    "braun": "brown",
+    "der Geldbeutel": "the wallet",
+    "h\u00e4sslich": "ugly",
+    "aus": "made of",
+    "das Leder": "the leather",
+    "zum Vatertag": "for father's day",
+    "gef\u00e4llt mir": "I like",
+    "die Uhr": "the watch",
+    "die Krawatte": "the tie",
+    "der Gesch\u00e4ftsmann": "the businessman",
+    "die Aktentasche": "the briefcase",
+    "scheu\u00dflich": "horrible",
+    "das Arbeitszimmer": "the home office",
+    "das Notizbuch": "the notebook",
+    "das Poster": "the poster",
+    "das Puzzle": "the puzzle",
+    "der Clown": "the clown",
+    "komisch": "strange",
+    "die T-shirts": "the t-shirts",
+    "das Rugby": "the rugby",
+    "die Shorts": "the shorts",
+    "beliebt": "popular",
+    "fit": "in shape",
+    "echt": "really",
+    "der Becher": "the mug",
+    "riesig": "huge",
+    "das Taschengeld": "the pocket money",
+    "passen": "to fit"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "created_at": "2022-02-17 17:22:14.828028",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "das Yoga": "the yoga",
+    "wie oft": "how often",
+    "abends": "evenings",
+    "Sport machen": "to exercise",
+    "pro": "per",
+    "einmal": "once",
+    "zweimal": "twice",
+    "dreimal": "thrice",
+    "die Banane": "the banana",
+    "das M\u00fcsli": "the muesli",
+    "das Joghurt": "the yoghurt",
+    "zum Fr\u00fchstück": "for breakfast",
+    "das Ei": "the egg",
+    "treffen": "to meet",
+    "am Donnerstag": "at thursday",
+    "die Tasse": "the cup",
+    "das B\u00fcro": "the office",
+    "zum Mittagessen": "for lunch",
+    "der Kollege": "the colleague",
+    "das Br\u00f6tchen": "the bread roll",
+    "der Schinken": "the ham",
+    "der Chef": "the boss",
+    "der Reis": "the rice",
+    "die Nudeln": "the noodles",
+    "freitag": "friday",
+    "sonntag": "sunday",
+    "zum Abendessen": "for dinner",
+    "Freundinnen": "girlfriends",
+    "das H\u00e4hnchen": "the chicken"
+  }
+}

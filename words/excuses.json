@@ -1,0 +1,39 @@
+{
+  "created_at": "2022-03-11 12:54:15.208513",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "hatten": "had",
+    "war": "was",
+    "spitze": "excellent",
+    "die Stimmung": "the atmosphere",
+    "gestern": "yesterday",
+    "die Reise": "the trip",
+    "in Ordnung": "alright",
+    "bei": "with",
+    "sorry": "sorry",
+    "zu tun": "to do",
+    "die Erk\u00e4ltung": "the cold",
+    "konnten": "wasn't",
+    "letzte": "last",
+    "zw\u00f6lften": "twelfth",
+    "elften": "eleventh",
+    "genug": "enough",
+    "die Gl\u00e4ser": "the glasses",
+    "herrlich": "lovely",
+    "die Ausrede": "the excuse",
+    "der Besuch": "(the visitor) bes\u00f8k",
+    "die Besuche": "(the visitors) besøkene",
+    "der Schl\u00fcssel": "the key",
+    "mehr": "more",
+    "vorbei": "over",
+    "sag bescheid": "let me know",
+    "das Gl\u00fcck": "the luck",
+    "hoffentlich": "hopefully",
+    "das Treffen": "the meeting"
+  }
+}

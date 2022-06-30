@@ -1,0 +1,36 @@
+{
+  "created_at": "2022-03-03 23:40:08.697451",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "was f\u00fcr": "what kind of",
+    "der See": "the lake",
+    "die Grillparty": "the barbecue",
+    "einkaufen": "to shop for",
+    "der Platz": "the space",
+    "die Leute": "the people",
+    "der Enkel": "the grandson",
+    "der Gast": "the guest",
+    "die G\u00e4ste": "the guests",
+    "einladen": "to invite",
+    "zweihundert": "two hundred",
+    "der Fuß": "the foot",
+    "alle": "everybody",
+    "gebrochen": "broken",
+    "fast": "almost",
+    "die Enkelin": "the granddaughter",
+    "am See": "at the lake",
+    "die Ehefrau": "the wife",
+    "der Ehemann": "the husband",
+    "der Teller": "the plate",
+    "die Teller": "the plates",
+    "die Person": "the person",
+    "die Gl\u00e4ser": "the glasses",
+    "prost": "cheers",
+    "der Mond": "the moon"
+  }
+}

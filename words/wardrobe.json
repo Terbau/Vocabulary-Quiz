@@ -1,0 +1,38 @@
+{
+  "created_at": "2022-03-24 11:29:39.152534",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die M\u00fctze": "the hat (lue)",
+    "der Ring": "the ring",
+    "das Armband": "the bracelet",
+    "passt nicht zu": "doesn't go with",
+    "die Hose": "the pants",
+    "die Stiefel": "the boots",
+    "die Schr\u00e4nke": "the closets",
+    "ausgeben": "to spend",
+    "der Stiefel": "the boot",
+    "das Einkaufszentrum": "the mall (kj\u00f8pesenter)",
+    "Au\u00dfer": "besides",
+    "die Ohrringe": "the earrings",
+    "der G\u00fcrtel": "the belt",
+    "geplant": "planned",
+    "das Silber": "the silver",
+    "die Technoparty": "the rave",
+    "die Hitze": "the heat",
+    "die Unterw\u00e4sche": "the underwear",
+    "eng": "tight",
+    "die Hemden": "the shirts",
+    "der Schmuck": "the jewelry",
+    "die Schublade": "the drawer",
+    "gleich": "the same",
+    "im sechsten Stock": "on the sixth floor",
+    "verschenken": "to give away",
+    "eingezogen": "moved in",
+    "einziehen": "to move in"
+  }
+}

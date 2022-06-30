@@ -1,0 +1,43 @@
+{
+  "created_at": "2022-04-05 13:14:23.573269",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "der Rasen": "the lawn",
+    "m\u00e4hen": "to mow",
+    "die Schwiegereltern": "the in-laws (svigerforeldre)",
+    "das Dorf": "the village",
+    "aufpassen": "to watch (passe p\u00e5)",
+    "der Schwiegervater": "the father in law (svigerfar)",
+    "die Schwiegermutter": "the mother in law (svigermor)",
+    "obwohl": "even though (selv om)",
+    "zerbrochen": "broken",
+    "verw\u00f6hnen": "to spoil",
+    "das Verh\u00e4ltnis": "the relationship (forhold)",
+    "die Ausstellung": "the exhibit",
+    "selbstst\u00e4ndig": "self-employed (selvstendig)",
+    "pensioniert": "retired",
+    "die Schw\u00e4gerin": "the sister in law",
+    "der Schwager": "the brother in law",
+    "flie\u00dfend": "fluent",
+    "das Kost\u00fcm": "the costume",
+    "die Kost\u00fcme": "the costumes",
+    "der Profisportler": "the professional athlete",
+    "loben": "to praise (\u00e5 rose)",
+    "brav": "well-behaved",
+    "das Ballett": "the ballet",
+    "neulich": "recently",
+    "selten": "rarely",
+    "zu Weihnachten": "for christmas",
+    "das Birneneis": "the pear ice cream",
+    "dekorieren": "to decorate",
+    "das Altersheim": "the retirement home (aldershjem)",
+    "die Goldene Hochzeit": "the 50th anniversary",
+    "die Birne": "the pear",
+    "die Birnen": "the pears"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "created_at": "2022-03-12 13:22:53.334832",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "das Weihnachten": "the christmas",
+    "an": "on",
+    "vorher": "beforehand",
+    "Silvester": "new year's eve",
+    "sogar": "even",
+    "von": "from",
+    "der Stollen": "the fruit cake",
+    "der Gl\u00fchwein": "the mulled wine",
+    "der Zahnarzt": "the dentist",
+    "der Metzger": "the butcher",
+    "der Friseur": "the hairdresser",
+    "die Gans": "the goose",
+    "streng": "strict",
+    "unten": "below",
+    "p\u00fcnktlich": "punctual",
+    "stehen": "to stand",
+    "die Handschuhe": "the gloves",
+    "der Handschuh": "the glove",
+    "zu Weihnachten": "for christmas",
+    "das Spielzeug": "the toy",
+    "das Einkaufszentrum": "the shopping mall",
+    "sofort": "immediately"
+  }
+}

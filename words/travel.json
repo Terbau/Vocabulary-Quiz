@@ -1,0 +1,41 @@
+{
+  "created_at": "2022-02-09 17:25:36.574926",
+  "stats": {
+    "attempts": 12,
+    "word_attempts": 360,
+    "word_successes": 279,
+    "all_correct_count": 1
+  },
+  "words": {
+    "die Fahrkarte": "the ticket",
+    "nach": "to",
+    "nur": "only",
+    "die Hin- und R\u00fcckfahrt": "the round-trip ticket",
+    "der Zug": "the train",
+    "Uhr": "o'clock",
+    "die Abfahrt": "the departure",
+    "genau": "exactly",
+    "die Minute": "the minute",
+    "sp\u00e4t": "late",
+    "halb": "half",
+    "achtung": "attention",
+    "schnell": "fast",
+    "ICE": "express train",
+    "die Versp\u00e4tung": "the delay",
+    "es gibt": "there is",
+    "auf": "on",
+    "das Gleis": "the track",
+    "die Kreditkarte": "the credit card",
+    "Reisezentrum": "travel center",
+    "stornieren": "to cancel",
+    "zahlen": "pay",
+    "mit": "with",
+    "f\u00e4llt aus": "is cancelled",
+    "der Sitz": "the seat",
+    "der Speisewagen": "the dining car",
+    "die Zugt\u00fcr": "the train door",
+    "hinten": "in the back",
+    "n\u00e4chste": "next",
+    "die Station": "the station"
+  }
+}

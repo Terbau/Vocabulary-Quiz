@@ -1,0 +1,38 @@
+{
+  "created_at": "2022-03-23 11:49:31.298593",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "das beste Stadion": "the best stadium",
+    "das Bundesland": "the federal state",
+    "Bayern": "Bavaria",
+    "wussten": "knew",
+    "die Bundesl\u00e4nder": "the federal states",
+    "die St\u00e4dte": "the cities",
+    "der Norden": "the north",
+    "der Osten": "the east",
+    "der S\u00fcden": "the south",
+    "der Westen": "the vest",
+    "liegen": "to be located",
+    "das Dach": "the roof",
+    "der Flughafen": "the airport",
+    "die Hauptstadt": "the capital",
+    "meiste": "the most",
+    "der Einwohner": "the inhabitant",
+    "die Einwohner": "the inhabitants",
+    "der Fluss": "the river",
+    "die Fl\u00fcsse": "the rivers",
+    "der Rhein": "the Rhein",
+    "am Rhein": "on the Rhine",
+    "die Fische": "the fish(s)",
+    "der Pirat": "the pirate",
+    "die Piraten": "the pirates",
+    "das Schiff": "the ship",
+    "die Schiffe": "the ships",
+    "etwas": "something"
+  }
+}

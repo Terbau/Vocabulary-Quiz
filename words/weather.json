@@ -1,0 +1,32 @@
+{
+  "created_at": "2022-02-06 11:51:07.387463",
+  "stats": {
+    "attempts": 8,
+    "word_attempts": 176,
+    "word_successes": 155,
+    "all_correct_count": 0
+  },
+  "words": {
+    "das wetter": "the weather",
+    "warm": "warm",
+    "kalt": "cold",
+    "sonnig": "sunny",
+    "heute": "today",
+    "bew\u00f6lkt": "cloudy",
+    "der regenschirm": "the umbrella",
+    "der herbst": "the fall",
+    "schlecht": "bad",
+    "windig": "windy",
+    "regnet": "raining",
+    "der schal": "the scarf",
+    "der winter": "the winter",
+    "jetzt": "now",
+    "schneit": "snowing",
+    "der fr\u00fchling": "the spring",
+    "die wasserflasche": "the water bottle",
+    "neblig": "foggy",
+    "wandern": "hike",
+    "der sommer": "the summer",
+    "die sonnencreme": "the sunscreen"
+  }
+}

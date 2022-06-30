@@ -1,0 +1,41 @@
+{
+  "created_at": "2022-04-07 11:14:00.966055",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "worum": "what ... about",
+    "Worum geht es in ihren Fantasyb\u00fcchern": "what are her fantasy books about",
+    "die Diskussion": "the discussion",
+    "bekannt": "well-known",
+    "laut": "according to (i f\u00f8lge)",
+    "worum geht es in der Diskussion": "what is the dicussion about",
+    "wohl": "comfortable (vel)",
+    "st\u00e4ndig": "constantly",
+    "k\u00fcrzer": "shorter",
+    "die Hemden": "the shirts",
+    "die R\u00f6cke": "the skirts",
+    "die Tasche": "the pocket",
+    "die Taschen": "the pockets",
+    "die Hosen": "the pants (p)",
+    "in Mode": "in style",
+    "die Mode": "the style",
+    "die Allergie": "the allergy",
+    "die Allergien": "the allergies",
+    "der Pudel": "the poodle",
+    "die Ratte": "the rat",
+    "die Ratten": "the rats",
+    "empfindlich": "sensitive (f\u00f8lsom)",
+    "weichgekocht": "soft-boiled",
+    "die Deutschen": "germans",
+    "die Pastete": "the p\u00e2t\u00e9 (postei)",
+    "die Pasteten": "the p\u00e2t\u00e9s (posteier)",
+    "sch\u00e4rfer": "spicier",
+    "noch nie": "never before",
+    "ekelhaft": "disgusting (ekkel)",
+    "der Magen": "the stomach"
+  }
+}

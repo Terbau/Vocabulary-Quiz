@@ -1,0 +1,29 @@
+{
+  "created_at": "2022-02-08 13:27:35.034992",
+  "stats": {
+    "attempts": 4,
+    "word_attempts": 76,
+    "word_successes": 60,
+    "all_correct_count": 1
+  },
+  "words": {
+    "das geld": "the money",
+    "das schwimmbad": "the swimming pool",
+    "m\u00f6chten": "would like to",
+    "gehen": "go",
+    "die zeit": "the time",
+    "geht": "works",
+    "das konzert": "the concert",
+    "das spiel": "the game",
+    "samstag": "saturday",
+    "sonntag": "sunday",
+    "nachmittag": "afternoon",
+    "schade": "too bad",
+    "freue mich": "look forward to",
+    "wann": "when",
+    "die eintrittskarte": "the admission ticket",
+    "bis wann": "until when",
+    "ge\u00f6ffnet": "opened",
+    "von": "from"
+  }
+}

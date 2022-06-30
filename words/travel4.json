@@ -1,0 +1,38 @@
+{
+  "created_at": "2022-03-31 09:55:26.159453",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "entschieden": "decided",
+    "um zu": "in order to (for \u00e5)",
+    "entscheiden": "to decide",
+    "die Kreuzfahrt": "the cruise",
+    "auf einer Kreuzfahrt": "on a cruise",
+    "der Studienfreund": "the college friend",
+    "Lissabon": "Lisbon",
+    "Venedig": "Venice",
+    "jemals": "ever",
+    "geschwommen": "swum",
+    "danach": "afterwards",
+    "geschickt": "sent",
+    "die Bilder": "the pictures",
+    "das Bild": "the picture",
+    "der Prospekt": "the brochure",
+    "die Website": "the website",
+    "auf der Website": "on the website",
+    "buchen": "to book",
+    "unh\u00f6flich": "rude",
+    "die Gegend": "the area",
+    "das WLAN": "the WiFi",
+    "die Bewertung": "the review",
+    "die Bewertungen": "the reviews",
+    "Quatsch": "Nonsense (tullprat)",
+    "ich mache mir Sorgen": "i am worried",
+    "herausfinden": "to find out",
+    "die Klimaanlage": "the air conditioner (klimaanlegg)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "created_at": "2022-03-30 10:10:12.568687",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "eingeladen": "invited",
+    "mitnehmen": "take with (ta med)",
+    "das Ostern": "the easter",
+    "jemand": "anybody",
+    "sogar": "even",
+    "zu dir nach Hause": "to your house",
+    "der Hubschrauber": "the helicopter",
+    "der Stiefvater": "the stepfather",
+    "der Stiefbruder": "the stepbrother",
+    "die Zahnspange": "the braces",
+    "vorstellen": "to introduce to",
+    "die Stiefmutter": "the stepmother",
+    "die Stiefschwester": "the stepsister",
+    "der Artikel": "the article",
+    "frech": "sassy",
+    "das Trampolin": "the trampoline",
+    "zeigen": "to show",
+    "das Schwein": "the pig",
+    "das St\u00fcck": "the piece",
+    "der K\u00e4fig": "the cage",
+    "das Ger\u00e4usch": "the noise (st\u00f8y)",
+    "der Stall": "the barn",
+    "weich": "soft (myk)",
+    "beliebt": "popular",
+    "tats\u00e4chlich": "in fact",
+    "verr\u00fcckt": "crazy",
+    "durstig": "thirsty",
+    "die Zwillinge": "the twins",
+    "der Zwilling": "the twin",
+    "gro\u00dfz\u00fcgig": "generous (sjener\u00f8s)",
+    "vorgestellt": "introduced",
+    "bauen": "to build"
+  }
+}

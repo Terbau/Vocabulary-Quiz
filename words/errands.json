@@ -1,0 +1,41 @@
+{
+  "created_at": "2022-03-10 14:05:01.982633",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die Botschaft": "the embassy",
+    "zu tun": "to do",
+    "nachher": "afterwards",
+    "der Geburtsort": "the birthplace",
+    "verl\u00e4ngern": "to renew",
+    "seit": "siden",
+    "das Passfoto": "the passport photo",
+    "die Frage": "the question",
+    "die Fragen": "the questions",
+    "beantworten": "to answer",
+    "gleich": "shortly",
+    "vielleicht": "maybe",
+    "bedeuten": "to mean",
+    "das Formular": "the form",
+    "die Formulare": "the forms",
+    "das Wort": "the word",
+    "die W\u00f6rter": "the words",
+    "\u00fcberweisen": "to transfer (money)",
+    "die EC-Karte": "the debit card",
+    "das Konto": "the account",
+    "er\u00f6ffnen": "to open",
+    "der Bankkaufmann": "the banker",
+    "helfen": "to help",
+    "das Regal": "the shelf",
+    "der Parkplatz": "the parking space",
+    "der Fahrradhelm": "the bicycle helmet",
+    "meistens": "usually",
+    "die Stra\u00dfenbahn": "the streetcar",
+    "tragen": "to wear",
+    "ver\u00e4rgert": "angry"
+  }
+}

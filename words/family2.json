@@ -1,0 +1,18 @@
+{
+  "created_at": "2022-02-06 15:09:03.943187",
+  "stats": {
+    "attempts": 7,
+    "word_attempts": 49,
+    "word_successes": 42,
+    "all_correct_count": 2
+  },
+  "words": {
+    "der opa": "the grandpa",
+    "die oma": "the grandma",
+    "die tante": "the aunt",
+    "der partner": "the partner",
+    "der mitbewohner": "the roommate",
+    "der Fisch": "the fish",
+    "die schnecke": "the snail"
+  }
+}

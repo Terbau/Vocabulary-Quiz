@@ -1,0 +1,43 @@
+{
+  "created_at": "2022-04-03 14:25:43.549013",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die Spargelzeit": "the asparagus season",
+    "das Gericht": "the dish",
+    "das Spargelgericht": "the asparagus dish",
+    "klassisch": "classic",
+    "die \u00d6sterreicher": "the Austrians",
+    "die Deutschen": "the germans",
+    "so sehr": "so much",
+    "der Kalender": "the calendar",
+    "nachsehen": "check (se over)",
+    "die Gerichte": "the dishes",
+    "neben": "next to",
+    "der Verkehr": "the traffic",
+    "abbiegen": "to turn",
+    "abfahren": "to depart",
+    "das Tor": "the gate",
+    "ankommen": "to arrive",
+    "schlimm": "bad (d\u00e5rlig)",
+    "wegen": "because of",
+    "die Ampel": "the traffic light",
+    "\u00fcber": "over",
+    "die Br\u00fccke": "the bridge",
+    "die Br\u00fccken": "the bridges",
+    "die Seite": "the side",
+    "auf der rechten Seite": "on the right side",
+    "an der n\u00e4chsten Ampel": "at the next traffic light",
+    "sich beschweren": "to complain",
+    "entt\u00e4uschen": "to disappoint",
+    "entt\u00e4uscht": "disappointed",
+    "herausfinden": "to find out",
+    "herausgefunden": "found out",
+    "ausverkauft": "sold out",
+    "es macht Sinn": "it makes sense"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "created_at": "2022-02-10 16:37:50.545235",
+  "stats": {
+    "attempts": 6,
+    "word_attempts": 156,
+    "word_successes": 116,
+    "all_correct_count": 0
+  },
+  "words": {
+    "hunger": "hungry",
+    "das Essen": "the food",
+    "griechisch": "greek",
+    "lieber": "prefer",
+    "sp\u00e4ter": "later",
+    "italienisch": "italian",
+    "der Rotwein": "the red wine",
+    "das Glas": "the glass",
+    "die Apfelschorle": "the sparkling apple juice",
+    "trinken": "to drink",
+    "die Suppe": "the soup",
+    "das Fleisch": "the meat",
+    "appetit": "appetite",
+    "Guten Appetit": "Enjoy your meal",
+    "bestellen": "to order",
+    "das Eis": "the ice cream",
+    "der Zucker": "the sugar",
+    "ohne": "without",
+    "der Nachtisch": "the dessert",
+    "der Apfelkuchen": "the apple cake",
+    "s\u00fc\u00df": "sweet",
+    "der Obstsalat": "the fruit salad",
+    "zusammen": "together",
+    "getrennt": "separately",
+    "Das macht": "That comes to",
+    "bar": "in cash"
+  }
+}

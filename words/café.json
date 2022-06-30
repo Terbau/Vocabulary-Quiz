@@ -1,0 +1,35 @@
+{
+  "created_at": "2022-04-04 17:10:48.704422",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "das Kaffeehaus": "the coffee house",
+    "die Kaffeeh\u00e4user": "the coffee houses",
+    "die Auswahl": "the selection (utvalg)",
+    "lohnen": "to be worth",
+    "eine Auswahl an": "a selection of",
+    "das Croissant": "the croissant",
+    "das Gericht": "the dish",
+    "der Schweinebraten": "the roast pork",
+    "der Rinderbraten": "the roast beef",
+    "das Mittagsmen\u00fc": "the lunch special",
+    "die Schlagsahne": "the whipped cream",
+    "die Minze": "the mint",
+    "inklusive": "including",
+    "die Pflaume": "the plum",
+    "die Pflaumen": "the plums",
+    "das Basilikum": "the basil (basilikum)",
+    "die Limonade": "the lemonade",
+    "der Becher": "the cup",
+    "im Angebot": "on sale",
+    "die Salami": "the salami",
+    "ungarisch": "hungarian",
+    "Machen Sie": "Round it up to",
+    "das macht dann": "that will be",
+    "gegrillt": "grilled"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "created_at": "2022-02-08 14:44:29.071873",
+  "stats": {
+    "attempts": 6,
+    "word_attempts": 141,
+    "word_successes": 100,
+    "all_correct_count": 0
+  },
+  "words": {
+    "der tisch": "the table",
+    "der stuhl": "the chair",
+    "modern": "modern",
+    "h\u00e4sslich": "ugly",
+    "der teppich": "the carpet",
+    "mag": "like",
+    "brauchen": "need",
+    "der schreibtisch": "the desk",
+    "die couch": "the couch",
+    "das schlafzimmer": "the bedroom",
+    "bequem": "comfortable",
+    "der schrank": "the closet",
+    "die lampe": "the lamp",
+    "hell": "bright",
+    "sauber": "clean",
+    "die wohnung": "the apartment",
+    "wer": "who",
+    "das badezimmer": "the bathroom",
+    "fantastisch": "fantastic",
+    "das b\u00fccherregal": "the bookshelf",
+    "dunkel": "dark",
+    "das bett": "the bed",
+    "schlafen": "sleep",
+    "schreiben": "to write"
+  }
+}

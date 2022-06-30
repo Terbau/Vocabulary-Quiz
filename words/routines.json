@@ -1,0 +1,42 @@
+{
+  "created_at": "2022-03-15 17:35:56.953441",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "aufstehen": "to get up",
+    "der Wecker": "the alarm",
+    "anrufen": "to call",
+    "vor": "before",
+    "lange": "late",
+    "verlassen": "to leave",
+    "duschen": "to shower",
+    "die Marmelade": "the jam",
+    "die Nachrichten": "the news",
+    "putzen": "to brush",
+    "der Balkon": "the balcony",
+    "die Treffen": "the meetings",
+    "das Treffen": "the meeting",
+    "nachmittags": "in the afternoons",
+    "die Firma": "the company",
+    "die Kantine": "the cafeteria",
+    "die Hunde": "the dogs",
+    "ausgehen": "to go out",
+    "die Bars": "the bars",
+    "die Arbeit": "the work",
+    "der Bauernhof": "the farm",
+    "die Hausarbeit": "the chores",
+    "fernsehen": "to watch tv",
+    "das Spielzeug": "the toy",
+    "gegen": "around",
+    "baden": "to take a bath",
+    "einschlafen": "to fall asleep",
+    "das St\u00fcck": "the piece",
+    "die St\u00fccke": "the pieces",
+    "ausmachen": "to turn off",
+    "das Licht": "the light"
+  }
+}

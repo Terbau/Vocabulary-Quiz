@@ -1,0 +1,42 @@
+{
+  "created_at": "2022-02-18 21:28:48.491423",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die N\u00e4chte": "the nights",
+    "das Einzelzimmer": "the single room",
+    "hundert": "one hundred",
+    "das Doppelzimmer": "the double room",
+    "der Pass": "the passport",
+    "der Schlüssel": "the key",
+    "nehmen": "to take",
+    "willkommen": "welcome",
+    "das Zimmer": "the room",
+    "der Strand": "the beach",
+    "der Flughafen": "the airport",
+    "die Bar": "the bar",
+    "der Buchladen": "the bookstore",
+    "gibt es": "is there",
+    "der Ausflug": "the excursion",
+    "das Frühstück": "the breakfast",
+    "der Fernseher": "the tv",
+    "ruhig": "calm",
+    "leise": "quiet",
+    "die Rezeption": "the reception",
+    "der Sessel": "the armchair",
+    "der Balkon": "the balcony",
+    "das Fitnessstudio": "the gym",
+    "das Fenster": "the window",
+    "die Tür": "the door",
+    "Es funktioniert": "it is working",
+    "das Internet": "the internet",
+    "kaputt": "broken",
+    "die Dusche": "the shower",
+    "die Uhr": "the clock",
+    "früh": "early"
+  }
+}

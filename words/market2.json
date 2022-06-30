@@ -1,0 +1,39 @@
+{
+  "created_at": "2022-04-04 11:33:22.507416",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "der Metzger": "the butcher",
+    "der Wochenmarkt": "the farmer's market",
+    "die Saison": "the season",
+    "der Kohl": "the cabbage (k\u00e5l)",
+    "gucken": "to see (to look)",
+    "die St\u00e4nde": "the stands",
+    "die Backwaren": "the baked goods",
+    "es gibt": "they have",
+    "meistens": "usually",
+    "der Salat": "the lettuce",
+    "holl\u00e4ndisch": "dutch",
+    "verkaufen": "to sell",
+    "w\u00fcrzig": "sharp",
+    "der Stand": "the stand",
+    "der H\u00e4ndler": "the seller",
+    "fettarme": "low-fat (fettfattig)",
+    "gesalzen": "salted",
+    "mindestens": "(for) at least (i det minste)",
+    "haltbar": "good (holdbar)",
+    "bei": "while",
+    "das dunkle Brot": "the dark bread",
+    "hausgemacht": "homemade",
+    "polnisch": "polish",
+    "der B\u00e4cker": "the baker",
+    "das Geb\u00e4ck": "the pastries",
+    "die Aprikosen": "the apricots",
+    "die Aprikose": "the apricot",
+    "zur\u00fcckgeben": "to return"
+  }
+}

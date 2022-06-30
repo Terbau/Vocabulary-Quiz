@@ -1,0 +1,36 @@
+{
+  "created_at": "2022-02-09 14:34:56.821102",
+  "stats": {
+    "attempts": 5,
+    "word_attempts": 125,
+    "word_successes": 84,
+    "all_correct_count": 0
+  },
+  "words": {
+    "das kaufhaus": "the department store",
+    "nerv\u00f6s": "nervous",
+    "montag": "monday",
+    "jobinterview": "job interview",
+    "dienstag": "tuesday",
+    "die kleidung": "the clothes",
+    "f\u00fcr": "for",
+    "aufgeregt": "excited",
+    "die bluse": "the blouse",
+    "m\u00f6chten": "would like to",
+    "kaufen": "buy",
+    "muss": "have to",
+    "das kleid": "the dress",
+    "das hemd": "the shirt",
+    "suchen": "to look for",
+    "das sakko": "the suit jacket",
+    "das T-shirt": "the t-shirt",
+    "passen": "fits",
+    "die Gr\u00f6\u00dfe": "the size",
+    "die Schuhe": "the shoes",
+    "der Aufzug": "the elevator",
+    "die Jeans": "the jeans",
+    "die Toiletten": "the toilets",
+    "schick": "stylish",
+    "der Pullover": "the sweater"
+  }
+}

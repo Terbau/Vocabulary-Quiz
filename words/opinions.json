@@ -1,0 +1,41 @@
+{
+  "created_at": "2022-03-10 22:26:37.205560",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die Katzen": "the cats",
+    "die Ananas": "the pineapple",
+    "gesund": "healty",
+    "ges\u00fcnder": "healthier",
+    "das Gummib\u00e4rchen": "the gummy bears",
+    "die Fahrr\u00e4der": "the bicycles",
+    "sie alle": "them all",
+    "zustimmen": "to agree with",
+    "anfangen": "to start",
+    "die Aktivit\u00e4t": "the activity",
+    "die Aktivit\u00e4ten": "the activities",
+    "langweilig": "boring",
+    "lesen": "to read",
+    "hungrig": "hungry",
+    "die Schwestern": "the sisters",
+    "die Br\u00fcder": "the brothers",
+    "haben recht": "is right",
+    "spinnen": "to be crazy",
+    "gef\u00e4hrlich": "dangerous",
+    "die T\u00f6chter": "the daughters",
+    "die S\u00f6hne": "the sons",
+    "fahrradfahren": "to ride a bike",
+    "fu\u00dfballspielen": "to play football",
+    "macht spa\u00df": "is fun",
+    "gr\u00f6\u00dfer": "bigger",
+    "beide": "both",
+    "kl\u00fcger": "smarter",
+    "bester": "best",
+    "stark": "strong",
+    "st\u00e4rker": "stronger"
+  }
+}

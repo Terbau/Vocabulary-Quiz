@@ -1,0 +1,36 @@
+{
+  "created_at": "2022-02-14 18:43:43.281450",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "surfen": "to surf",
+    "tanzen": "are dancing",
+    "zu Hause": "at home",
+    "das Hobby": "the hobby",
+    "die Gitarre": "the guitar",
+    "der Film": "the movie",
+    "die Geige": "the violin",
+    "das Instrument": "the instrument",
+    "das Tennis": "the tennis",
+    "ich will": "i want",
+    "du willst": "you want",
+    "das Videospiel": "the video game",
+    "die Videospiele": "the video games",
+    "h\u00f6ren": "to hear",
+    "der Wald": "the forest",
+    "die Hexe": "the witch",
+    "campen": "to camp",
+    "die Woche": "the week",
+    "grillen": "to grill",
+    "am Mittwoch": "on wednesday",
+    "die Pl\u00e4ne": "the plans",
+    "der Plan": "the plan",
+    "ich habe keine Lust": "I dont want to",
+    "schon": "already",
+    "leider": "unfortunately"
+  }
+}

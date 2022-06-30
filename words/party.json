@@ -1,0 +1,42 @@
+{
+  "created_at": "2022-03-05 12:36:06.253808",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "herzlichen Gl\u00fcckwunsch": "congratulations",
+    "anrufen": "to call",
+    "der Jahrestag": "the anniversary",
+    "das Date": "the date",
+    "schreiben": "to write",
+    "schicken": "to send",
+    "die Post": "the mail",
+    "sagen": "to say",
+    "die \u00dcberraschung": "the surprise",
+    "per": "by",
+    "einfach": "easy",
+    "geben": "to give",
+    "die Kette": "the necklace",
+    "der Schal": "the scarf",
+    "der Fluss": "the river",
+    "die Kaffeemaschine": "the coffee machine",
+    "online": "online",
+    "die Torte": "the layer cake",
+    "die Rose": "the rose",
+    "die Rosen": "the roses",
+    "praktisch": "practical",
+    "der Ohrring": "the earring",
+    "die Ohrringe": "the earrings",
+    "neblig": "foggy",
+    "der Sekt": "the champagne",
+    "der Gast": "the guest",
+    "super": "great",
+    "gut gemacht": "well done",
+    "das Lied": "the song",
+    "ganz": "whole",
+    "ganz allein": "all alone"
+  }
+}

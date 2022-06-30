@@ -1,0 +1,41 @@
+{
+  "created_at": "2022-04-22 10:09:59.305041",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "Im Zweiten Weltkrieg": "In the second world war",
+    "die Achsenm\u00e4chte": "the axis powers (aksemaktene)",
+    "die Alliierten": "the allies (de allierte)",
+    "die Entsch\u00e4digungssumme": "the compensation amount (erstatningssummen)",
+    "der Reichskanzler": "rikskansleren",
+    "der Weltkrieg": "the world war",
+    "die Weltwirtschaftskrise": "the world economy crisis",
+    "das Gebiet": "the area (territory, omr\u00e5det)",
+    "ernennen": "to appoint",
+    "die Diktatur": "the dictatorship",
+    "die SS": "(the) ss",
+    "die Gestapo": "the Gestapo",
+    "angeschlossen": "affiliated (tilkoblet)",
+    "der Gegner": "the opponent",
+    "das Konzentrationslager": "the concentration camp",
+    "der Panzer": "the tank",
+    "der V\u00f6lkermord": "the holocaust (folkemordet)",
+    "die Zwangsarbeit": "the forced labor (tvangsarbeidet)",
+    "die Flugzeuge": "the airplanes",
+    "ermorden": "to murder",
+    "t\u00f6ten": "to kill",
+    "get\u00f6tet": "killed",
+    "leisten": "to perform (to carry out)",
+    "sterben": "to die",
+    "der Widerstand": "the resistance (motstanden)",
+    "bombardiert": "bombed",
+    "der Selbstmord": "the suicide",
+    "kapituliert": "capitulated (kapitulert)",
+    "der Krieg ist zu ende": "the war is over",
+    "der Krieg ist zu Ende": "the war is over"
+  }
+}

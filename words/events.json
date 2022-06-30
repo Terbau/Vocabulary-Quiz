@@ -1,0 +1,39 @@
+{
+  "created_at": "2022-02-17 13:55:02.840874",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "Spa\u00df": "fun",
+    "das Oktoberfest": "the oktoberfest",
+    "wollen": "want to",
+    "beliebt": "popular",
+    "feiern": "to celebrate",
+    "beginnen": "to begin",
+    "enden": "ends",
+    "Oktober": "october",
+    "neunzehnten": "nineteenth",
+    "September": "september",
+    "achtzehnten": "eighteenth",
+    "das Bier": "the beer",
+    "das Riesenrad": "the ferris wheel",
+    "das Wei\u00dfbier": "the wheat beer",
+    "uns": "us",
+    "das Wiesn-Herz": "the heart cookie",
+    "das Handy": "the cell phone",
+    "die Musik": "the music",
+    "die Band": "the band",
+    "schmecken": "to taste",
+    "die Leute": "the people",
+    "die Pommes": "the fries",
+    "wie sp\u00e4t ist es": "what time is it",
+    "fr\u00fch": "early",
+    "noch": "still",
+    "bis morgen": "see you tomorrow",
+    "viertel vor acht": "quarter to eight",
+    "viertel": "quarter"
+  }
+}

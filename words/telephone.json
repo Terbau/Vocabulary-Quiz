@@ -1,0 +1,37 @@
+{
+  "created_at": "2022-04-02 19:24:42.159144",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die Nachricht": "the message",
+    "die Fluggesellschaft": "the airline (flyselskap)",
+    "klingeln": "to ring",
+    "w\u00e4hlen": "to dial (to pick)",
+    "hinterlassen": "to leave behind",
+    "der Anrufbeantworter": "the answering machine (telefonsvarer)",
+    "sich melden": "to answer",
+    "der Signalton": "the tone (the beep)",
+    "W\u00fcrden Sie gern": "would you like",
+    "die Durchwahlnummer": "the extension number",
+    "dran": "on the line",
+    "durchstellen": "to put through",
+    "notieren": "to write down (notere)",
+    "notiert": "wrote down (noterte)",
+    "verw\u00e4hlen": "to misdial",
+    "verw\u00e4hlt": "misdialed",
+    "die Leitung": "the line (ledning)",
+    "besetzt": "busy (occupied)",
+    "besetzen": "to occupy",
+    "Auf Wiederh\u00f6ren": "Goodbye",
+    "erreichen": "to reach",
+    "erreicht": "reached",
+    "die Verbindung": "the connection",
+    "der Anruf": "the call (anropet)",
+    "nervig": "annoying",
+    "furchtbar": "terrible (fryktelig)"
+  }
+}

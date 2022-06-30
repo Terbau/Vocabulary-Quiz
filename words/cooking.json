@@ -1,0 +1,40 @@
+{
+  "created_at": "2022-04-01 20:45:34.956782",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die Gruppe": "the group",
+    "das Kochbuch": "the cookbook",
+    "einmal": "once",
+    "die Maultaschen": "the dumplings",
+    "das Gramm": "the gram",
+    "die K\u00fcchenwaage": "the kitchen scale",
+    "das Mehl": "the flour (mel)",
+    "vermischen": "to mix",
+    "kneten": "to knead (kna, elte)",
+    "der Teig": "the dough (deig)",
+    "anmachen": "to turn on",
+    "die Kartoffel": "the potato",
+    "die F\u00fcllung": "the filling",
+    "schneiden": "to cut",
+    "die Zwiebel": "the onion",
+    "der Kochl\u00f6ffel": "the wooden spoon (tresleiv)",
+    "der Pilz": "the mushroom",
+    "die Pilze": "the mushrooms",
+    "die Pfanne": "the skillet (panne)",
+    "das Schneidebrett": "the cutting board",
+    "die Sp\u00fclmaschine": "the dishwasher",
+    "das Nudelholz": "the rolling pin (kjevle)",
+    "an der Wand": "on the wall",
+    "das Sp\u00fclbecken": "the sink",
+    "das Rezept": "the recipe",
+    "gekocht": "boiled",
+    "ausgezeichnet": "excellent",
+    "die K\u00e4sesp\u00e4tzle": "the cheese spaetzle",
+    "gebraten": "fried"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "created_at": "2022-03-20 13:54:47.533206",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "l\u00fcgen": "to lie",
+    "der Abschluss": "the degree",
+    "gehasst": "hated",
+    "echt": "real",
+    "mitspielen": "to play along",
+    "mitgespielt": "to have played along",
+    "international": "internationally",
+    "bekannt": "well-known",
+    "das Gespenst": "the ghost",
+    "das Ufo": "the UFO",
+    "das Ungeheuer": "the monster",
+    "ist lieb": "is nice",
+    "ob": "whether",
+    "selten": "rarely",
+    "der Affe": "the monkey",
+    "neugierig": "curious",
+    "wecken": "to wake up",
+    "schreien": "to shout",
+    "klettern": "to climb",
+    "kennengelernt": "have met",
+    "der Schriftsteller": "the writer",
+    "kennenlernen": "to meet",
+    "die Sonnenbrille": "the sunglasses",
+    "\u00fcber": "at",
+    "auf dem Fest": "at the festival"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "created_at": "2022-04-24 13:22:20.109604",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die Steuern": "the taxes",
+    "die Reichen": "the rich (people)",
+    "Soziale Gerechtigkeit": "Social Justice",
+    "die Klimagase": "the greenhouse gasses",
+    "die Emission": "the emission (utslipp)",
+    "sozialdemokratisch": "social democratic",
+    "christdemokratisch": "christian democratic",
+    "das Computerskript": "the computer script",
+    "entwickelt": "developed",
+    "selbst entwickelt": "developed myself",
+    "die Vokabel": "(the) glose",
+    "die Vokabeln": "(the) glosene",
+    "unheimlich": "scary",
+    "verschwinden": "to disappear",
+    "das Ger\u00e4usch": "the sound",
+    "verschwunden": "disappeared",
+    "die Dimension": "the dimension",
+    "programmieren": "to program",
+    "programmiert": "programmed",
+    "die Staffel": "the season",
+    "die Staffeln": "the seasons",
+    "das Rennen": "the race",
+    "der Rennfahrer": "the race driver",
+    "die Rennen": "the races",
+    "stattgefunden": "took place"
+  }
+}

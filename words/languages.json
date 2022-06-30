@@ -1,0 +1,30 @@
+{
+  "created_at": "2022-02-07 13:17:51.482037",
+  "stats": {
+    "attempts": 4,
+    "word_attempts": 76,
+    "word_successes": 67,
+    "all_correct_count": 1
+  },
+  "words": {
+    "nur": "only",
+    "perfekt": "perfect",
+    "t\u00fcrkisch": "turkish",
+    "toll": "great",
+    "polnisch": "polish",
+    "schwer": "hard",
+    "einfach": "simple",
+    "franz\u00f6sisch": "french",
+    "schwedisch": "swedish",
+    "welche": "which",
+    "die Sprache": "the language",
+    "die Sprachen": "the languages",
+    "lernen": "to learn",
+    "spanisch": "spanish",
+    "ein bisschen": "a little",
+    "schnell": "fast",
+    "viele": "many",
+    "russisch": "russian",
+    "die muttersprache": "the mother tongue"
+  }
+}

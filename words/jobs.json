@@ -1,0 +1,18 @@
+{
+  "created_at": "2022-02-05 11:46:54.452451",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "kellner": "waiter",
+    "schauspieler": "actor",
+    "beruf": "job",
+    "der Professor": "the professor",
+    "student": "college student",
+    "arzt": "doctor",
+    "lehrer": "teacher"
+  }
+}

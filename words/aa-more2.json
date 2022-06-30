@@ -1,0 +1,28 @@
+{
+  "created_at": "2022-04-25 14:34:20.709700",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "angreifen": "to attack",
+    "angegriffen": "attacked",
+    "die W\u00e4hrung": "the currency",
+    "der Begriff": "the term",
+    "die Spannung": "the tension",
+    "drohen": "to threaten",
+    "\u00fcber die H\u00e4lfte": "over half",
+    "scheitern": "to fail",
+    "gescheitert": "failed",
+    "das Attentat": "the assasination",
+    "die Wiedervereinigung": "the reunion (reunification)",
+    "der Aufstieg": "the ascent",
+    "aufgel\u00f6st": "dissolved",
+    "die Unterst\u00fctzung": "the support",
+    "das Heimatland": "the home country",
+    "die Vorfahren": "the roots",
+    "die Fu\u00dfballtrainingszentren": "the soccer practice centers"
+  }
+}

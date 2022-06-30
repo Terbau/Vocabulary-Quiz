@@ -1,0 +1,35 @@
+{
+  "created_at": "2022-02-15 18:09:09.478279",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "siebzehn": "seventeen",
+    "sechzehn": "sixteen",
+    "gute Besserung": "feel better",
+    "traurig": "sad",
+    "der Durst": "the thirst",
+    "m\u00fcde": "tired",
+    "schlafen": "is sleeping",
+    "krank": "sick",
+    "nachts": "at night",
+    "das Krankenhaus": "the hospital",
+    "die Kopfschmerzen": "the headache",
+    "die Tablette": "the pill",
+    "iss": "eat",
+    "mein Name ist": "my name is",
+    "der Termin": "the appointment",
+    "Um wie viel Uhr": "at what time",
+    "der Bauchschmerz": "the stomachache",
+    "das Fieber": "the fever",
+    "bleiben": "to stay",
+    "glücklich": "happy",
+    "mehr": "anymore",
+    "gesund": "healthy",
+    "die Zahnschmerzen": "the toothache",
+    "hurra": "hooray"
+  }
+}

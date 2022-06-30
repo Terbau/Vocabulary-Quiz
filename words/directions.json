@@ -1,0 +1,39 @@
+{
+  "created_at": "2022-02-05 13:56:44.987802",
+  "stats": {
+    "attempts": 9,
+    "word_attempts": 228,
+    "word_successes": 196,
+    "all_correct_count": 1
+  },
+  "words": {
+    "der taxistand": "the taxi stand",
+    "der markt": "the market",
+    "der bahnhof": "the train station",
+    "da dr\u00fcben": "over there",
+    "die bibliothek": "the library",
+    "die kirche": "the church",
+    "alt": "old",
+    "die apotheke": "the pharmacy",
+    "in der n\u00e4he": "nearby",
+    "das museum": "the museum",
+    "das hotel": "the hotel",
+    "das caf\u00e9": "the cafe",
+    "elegant": "elegant",
+    "billig": "cheap",
+    "das restaurant": "the restaurant",
+    "der supermarkt": "the supermarket",
+    "rechts": "on the right",
+    "links": "on the left",
+    "die b\u00e4ckerei": "the bakery",
+    "das kino": "the cinema",
+    "neu": "new",
+    "die universit\u00e4t": "the university",
+    "weit": "far",
+    "weit weg": "far away",
+    "der geldautomat": "ATM",
+    "der park": "the park",
+    "wunderbar": "wonderful",
+    "zu": "to"
+  }
+}

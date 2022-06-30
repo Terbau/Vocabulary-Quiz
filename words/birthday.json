@@ -1,0 +1,35 @@
+{
+  "created_at": "2022-02-14 14:51:57.261323",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "machen": "to do",
+    "morgen": "tomorrow",
+    "der Geburtstag": "the birtday",
+    "im April": "in april",
+    "am ersten M\u00e4rz": "on the first of march",
+    "M\u00e4rz": "march",
+    "ersten": "first",
+    "zweiten": "second",
+    "dritten": "third",
+    "im Mai": "in may",
+    "vierten": "fourth",
+    "die Party": "the party",
+    "zehnten": "tenth",
+    "Juli": "july",
+    "ich kann kommen": "i can come",
+    "das Picknick": "the picnic",
+    "siebten": "seventh",
+    "die Einladung": "the invitation",
+    "auf jeden Fall": "definitely",
+    "das Geschenk": "the gift",
+    "k\u00f6nnt ihr": "can you",
+    "feiern": "celebrate",
+    "Hause": "home",
+    "kaufen": "are buying"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "created_at": "2022-03-02 15:17:50.277761",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "das Meer": "the sea",
+    "die Sonne": "the sun",
+    "dort": "there",
+    "scheinen": "to shine",
+    "der Strand": "the beach",
+    "die Kleidung": "the clothes",
+    "der Hut": "the hat",
+    "der Badeanzug": "the swimsuit",
+    "die Tasche": "the bag",
+    "schick": "stylish",
+    "einpacken": "to pack",
+    "die Jacke": "the jacket",
+    "tragen": "to wear",
+    "das Kleid": "the dress",
+    "waschen": "to wash",
+    "der Schrank": "the closet",
+    "wieder": "again",
+    "vergiss": "forget",
+    "vergiss nicht": "don't forget",
+    "schmutzig": "dirty",
+    "die Socken": "the socks",
+    "die Socke": "the sock",
+    "die Sandale": "the sandal",
+    "die Sandalen": "the sandals",
+    "voll": "full",
+    "der Koffer": "the suitcase",
+    "die Koffer": "the suitcases",
+    "der Zoll": "the customs",
+    "schon": "already",
+    "einmal": "once"
+  }
+}

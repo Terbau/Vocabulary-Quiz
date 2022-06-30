@@ -1,0 +1,37 @@
+{
+  "created_at": "2022-03-01 12:01:37.971955",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "das Hockey": "the hockey",
+    "der Mittag": "the noon",
+    "ganz": "whole",
+    "der Tag": "the day",
+    "denn": "because",
+    "wenig": "little",
+    "sportlich": "athletic",
+    "laufen": "to run",
+    "er l\u00e4uft": "he runs",
+    "der Marathon": "the marathon",
+    "er schl\u00e4ft": "he sleeps",
+    "der Kilometer": "the kilometer",
+    "die Kilometer": "the kilometers",
+    "das Fahrrad": "the bicycle",
+    "gelb": "yellow",
+    "die Turnschuhe": "the gym shoes",
+    "n\u00e4chstes Wochenende": "next weekend",
+    "nass": "wet",
+    "allein": "alone",
+    "der Mond": "the moon",
+    "die Tasse": "the cup",
+    "heute Nacht": "tonight",
+    "als": "than",
+    "besser": "better",
+    "die Nachbarn": "the neighbors",
+    "die Mitternacht": "the midnight"
+  }
+}

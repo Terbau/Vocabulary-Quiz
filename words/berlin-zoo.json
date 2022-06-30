@@ -1,0 +1,42 @@
+{
+  "created_at": "2022-04-04 20:08:46.085043",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "der Berliner Zoo": "the berlin zoo",
+    "losfahren": "to leave",
+    "bei Regen": "if it rains",
+    "deshalb": "so (derfor)",
+    "der Eintritt": "the admission",
+    "die Erwachsene": "the adults",
+    "exotisch": "exotic",
+    "das Insekt": "the insect",
+    "die Insekten": "the insects",
+    "wild": "wild",
+    "der Flamingo": "the flamingo",
+    "die Flamingos": "the flamingos",
+    "faulenzen": "to lounge",
+    "die Schildkr\u00f6ten": "the turtles",
+    "das Kind fragt sich": "The kid is wondering",
+    "Einheimisch": "Indigenous (innf\u00f8dt)",
+    "der Elefant": "the elephant",
+    "die Elefanten": "the elephants",
+    "der Leopard": "the leopard",
+    "die Leoparden": "the leopards",
+    "der Fleck": "the spot (flekk)",
+    "die Flecken": "the spots (flekker)",
+    "selten": "rare",
+    "der Sto\u00dfzahn": "the tusk (st\u00f8ttann)",
+    "die Sto\u00dfz\u00e4hne": "the tusks (st\u00f8ttenner)",
+    "ansehen": "to look at",
+    "das Panda-baby": "the baby panda",
+    "die Geburt": "the birth",
+    "der Gorilla": "the gorilla",
+    "die Gorillas": "the gorillas",
+    "gefreut": "(was) excited"
+  }
+}

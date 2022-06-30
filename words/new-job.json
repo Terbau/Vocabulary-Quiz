@@ -1,0 +1,39 @@
+{
+  "created_at": "2022-02-28 22:25:06.809668",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die Handynummer": "the phone number",
+    "p\u00fcnktlich": "punctual",
+    "der Vorname": "the first name",
+    "der Lebenslauf": "the resume",
+    "sein": "to be",
+    "motiviert": "motivated",
+    "die E-Mail-Adresse": "the e-mail address",
+    "samstag": "saturday",
+    "das Hobby": "the hobby",
+    "die Hobbys": "the hobbies",
+    "die Frage": "the question",
+    "der Nachname": "the last name",
+    "der Führerschein": "the driver's license",
+    "das Büro": "the office",
+    "die Büros": "the offices",
+    "der Kollege": "the colleague",
+    "rauchen": "to smoke",
+    "die Pause": "the break",
+    "die Bücher": "the books",
+    "lang": "long",
+    "genau": "exactly",
+    "bald": "soon",
+    "endlich": "finally",
+    "lass uns": "la oss",
+    "abholen": "to pick up",
+    "das Theater": "the theater",
+    "prost": "cheers",
+    "ihn": "him"
+  }
+}

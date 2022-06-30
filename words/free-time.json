@@ -1,0 +1,38 @@
+{
+  "created_at": "2022-03-08 12:40:08.339608",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "als": "than",
+    "bei sch\u00f6nem Wetter": "during nice weather",
+    "spazieren": "to walk",
+    "nach": "after",
+    "die Dokufilme": "the documentaries",
+    "aus": "from",
+    "die Fernsehserie": "the tv show",
+    "die Fernsehserien": "the tv shows",
+    "fernsehen": "to watch tv",
+    "die Karte": "the card",
+    "die Karten": "the cards",
+    "drau\u00dfen": "outside",
+    "die Schule": "the school",
+    "die Zeitungen": "the newspapers",
+    "bei schlechtem Wetter": "during bad weather",
+    "cooler": "cooler",
+    "denken": "to think",
+    "die Comics": "the comics",
+    "auf dem Campus": "on campus",
+    "am See": "at the lake",
+    "w\u00e4rmer": "warmer",
+    "warm": "warm",
+    "die Schweiz": "Switzerland",
+    "die T\u00fcrkei": "turkey",
+    "ein paar": "a few",
+    "die Tage": "the days",
+    "liegen": "to lie"
+  }
+}

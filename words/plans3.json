@@ -1,0 +1,36 @@
+{
+  "created_at": "2022-03-04 13:27:18.555704",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "das Lieblingsteam": "the favorite team",
+    "mitkommen": "to come along",
+    "das Spiel": "the game",
+    "die Band": "the band",
+    "glauben": "to believe",
+    "schade": "too bad",
+    "ausverkauft": "sold out",
+    "schon": "already",
+    "gerade": "just now",
+    "gleich": "shortly",
+    "anfangen": "start",
+    "das Stadion": "the stadium",
+    "die Zeit": "the time",
+    "die U-Bahn": "the subway",
+    "uns": "each other",
+    "der Handball": "the handball",
+    "der Ball": "the ball",
+    "aufh\u00f6ren": "to stop",
+    "die Spiele": "the games",
+    "der Anzug": "the suit",
+    "klassisch": "classical",
+    "der Neffe": "the nephew",
+    "vergiss nicht": "don't forget",
+    "die Oper": "the opera",
+    "die Reise": "the trip"
+  }
+}

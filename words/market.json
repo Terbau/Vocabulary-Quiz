@@ -1,0 +1,19 @@
+{
+  "created_at": "2022-02-05 22:43:01.349323",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "die orange": "the orange",
+    "der marktplatz": "the marketplace",
+    "viel": "much",
+    "kostet": "costs",
+    "wirklich": "really",
+    "der d\u00f6ner": "the kebab",
+    "vielen dank": "thank you very much",
+    "gern geschehen": "you are welcome"
+  }
+}

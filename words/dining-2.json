@@ -1,0 +1,41 @@
+{
+  "created_at": "2022-04-05 14:33:24.713842",
+  "stats": {
+    "attempts": 0,
+    "word_attempts": 0,
+    "word_successes": 0,
+    "all_correct_count": 0
+  },
+  "words": {
+    "unternehmen": "to do (\u00e5 foreta seg)",
+    "verabredet": "made plans",
+    "verabreden": "to make plans",
+    "vegetarisch": "vegetarian",
+    "erstklassig": "excellent (f\u00f8rsteklasses)",
+    "die Gerichte": "the dishes",
+    "das Gericht": "the dish",
+    "entr\u00fcmpeln": "to clean out",
+    "der Tofu": "the tofu",
+    "was h\u00e4ttest du gern": "what would you like to have",
+    "bestehen": "is made of (\u00e5 best\u00e5 av)",
+    "Woraus": "what ... of",
+    "die Scheibe": "the slice (of bread) (skive)",
+    "stattdessen": "instead (istedenfor)",
+    "der Klo\u00df": "the dumpling",
+    "der Speck": "the bacon",
+    "die Maultaschen": "the dumplings",
+    "noch ein": "another",
+    "sauer": "sour",
+    "die Serviette": "the napkin (serviett)",
+    "die Servietten": "the napkins (servietter)",
+    "reichen": "to hand (\u00e5 rekke)",
+    "der Pfeffer": "the pepper",
+    "genie\u00dfen": "to enjoy (\u00e5 nyte)",
+    "roh": "raw",
+    "empfohlen": "recommended",
+    "empfehlen": "to recommend",
+    "die Bewertungen": "the reviews",
+    "die Bewertung": "the review",
+    "der Magen": "the stomach"
+  }
+}
