@@ -7,4 +7,4 @@ Run `main.py` and just follow the instructions for creating new files. It really
 # Quiz Commands
 These are commands that you can write at any time during a quiz:
 - `ss` or `skip` - Skips the current word.
-- `saveas {name}` - Saves your progress so that you can keep on going another time. Note that the file will be saved as `xx-inprogress-{name}.json`.
+- `saveas {name}` - Saves your progress so that you can keep on going another time. Note that the file will be saved as `xx-inprogress-{name}.json` and you need to use that name when you are trying to open the quiz again at a later point.
